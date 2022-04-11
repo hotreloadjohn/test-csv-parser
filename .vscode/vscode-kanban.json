@@ -1,0 +1,20 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "John"
+      },
+      "creation_time": "2022-03-24T05:20:29.696Z",
+      "description": {
+        "content": "# Test",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "Convert/insert json data to sql db"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": []
+}
